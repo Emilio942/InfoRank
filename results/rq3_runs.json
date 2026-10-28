@@ -1,0 +1,74 @@
+[
+ {
+  "tag": "copy257_base_s0",
+  "task": "copy",
+  "cfg": "base",
+  "gamma": "0",
+  "acc": 0.2333984375,
+  "val_loss": 3.179139494895935
+ },
+ {
+  "tag": "copy257_base_s1",
+  "task": "copy",
+  "cfg": "base",
+  "gamma": "0",
+  "acc": 0.16845703125,
+  "val_loss": 3.4343796372413635
+ },
+ {
+  "tag": "copy257_base_s2",
+  "task": "copy",
+  "cfg": "base",
+  "gamma": "0",
+  "acc": 0.25958251953125,
+  "val_loss": 3.124729633331299
+ },
+ {
+  "tag": "copy257_reg01_s0",
+  "task": "copy",
+  "cfg": "reg",
+  "gamma": "01",
+  "acc": 0.23504638671875,
+  "val_loss": 3.205091953277588
+ },
+ {
+  "tag": "copy257_reg01_s1",
+  "task": "copy",
+  "cfg": "reg",
+  "gamma": "01",
+  "acc": 0.04486083984375,
+  "val_loss": 3.848562002182007
+ },
+ {
+  "tag": "copy257_reg01_s2",
+  "task": "copy",
+  "cfg": "reg",
+  "gamma": "01",
+  "acc": 0.2015380859375,
+  "val_loss": 3.3220221400260925
+ },
+ {
+  "tag": "copy257_reg01_s3",
+  "task": "copy",
+  "cfg": "reg",
+  "gamma": "01",
+  "acc": 0.2491455078125,
+  "val_loss": 3.1853690147399902
+ },
+ {
+  "tag": "copy513_base_s0",
+  "task": "copy",
+  "cfg": "base",
+  "gamma": "0",
+  "acc": 0.129364013671875,
+  "val_loss": 3.5415078997612
+ },
+ {
+  "tag": "copy513_base_s1",
+  "task": "copy",
+  "cfg": "base",
+  "gamma": "0",
+  "acc": 0.157958984375,
+  "val_loss": 3.439329206943512
+ }
+]

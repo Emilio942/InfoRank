@@ -1,0 +1,42 @@
+[
+ {
+  "ckpt": "copy513_base_s1_final",
+  "task": "copy",
+  "L": 65,
+  "acc": 0.02471923828125,
+  "erank_end": 19.722511291503906,
+  "erank_mean": 32.17007064819336
+ },
+ {
+  "ckpt": "copy513_base_s1_final",
+  "task": "copy",
+  "L": 129,
+  "acc": 0.0247802734375,
+  "erank_end": 18.870506286621094,
+  "erank_mean": 32.31454086303711
+ },
+ {
+  "ckpt": "copy513_base_s1_final",
+  "task": "copy",
+  "L": 257,
+  "acc": 0.0239105224609375,
+  "erank_end": 17.769664764404297,
+  "erank_mean": 32.638771057128906
+ },
+ {
+  "ckpt": "copy513_base_s1_final",
+  "task": "copy",
+  "L": 513,
+  "acc": 0.15901947021484375,
+  "erank_end": 20.463565826416016,
+  "erank_mean": 33.28726577758789
+ },
+ {
+  "ckpt": "copy513_base_s1_final",
+  "task": "copy",
+  "L": 1025,
+  "acc": 0.011295318603515625,
+  "erank_end": 63.65216064453125,
+  "erank_mean": 54.439117431640625
+ }
+]
