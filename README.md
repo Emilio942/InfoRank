@@ -1,4 +1,6 @@
-# InfoRank — Fisher-Geometry Diagnostics for Selective SSMs (and Why Three Hypotheses Fail)
+# How I Burned Down My Research Proposal (3×) — and What You Can Learn From It
+
+**InfoRank** · a *negative-result* study on Fisher-geometry diagnostics for selective state-space models
 
 Research artifact accompanying the proposal *“Information-Geometric Phase Transitions in Selective
 State-Space Models”*. We built the proposed pipeline end-to-end, validated it against exact analytic
